@@ -1,0 +1,14 @@
+* {
+    background-color: hotpink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    margin: 100%;
+    justify-content: center;
+    align-items: center;
+}
+p{ 
+    justify-content: center;
+}
